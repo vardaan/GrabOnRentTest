@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">GrabOnRentTest</string>
+  <string name="product_list_no_more_products">Reached the end !!!</string>
+  <string name="unable_to_get_data">Unable to get data</string>
+</resources>
